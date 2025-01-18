@@ -2,6 +2,8 @@
 
 Welcome to the **Robotic Cell Management System**! This application simulates a robotic cell where robots and workers collaborate to perform tasks and assemble products in a dynamic environment. This project is ideal for understanding resource allocation, task automation, and process flow in a manufacturing context.
 
+https://github.com/user-attachments/assets/d134b0d0-3f3e-4dfb-8607-2a461a2c8d13
+
 ---
 
 ## ✨ Key Features

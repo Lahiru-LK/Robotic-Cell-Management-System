@@ -1,0 +1,26 @@
+{
+    "CarEngine2": [
+        {
+            "name": "Body-Clear",
+            "robots": 1,
+            "workers": 1
+        },
+        {
+            "name": "Pain",
+            "robots": 1,
+            "workers": 2
+        }
+    ],
+    "CarEngine44": [
+        {
+            "name": "Welding",
+            "robots": 2,
+            "workers": 3
+        },
+        {
+            "name": "Painting",
+            "robots": 1,
+            "workers": 1
+        }
+    ]
+}

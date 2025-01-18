@@ -90,6 +90,18 @@ Upon starting, the system displays an interactive menu:
 | `complete_task`   | Mark a task as completed                   |
 | `quit`            | Exit the system                           |
 
+- 🔧 **add_robot**: Add a new robot to the system.  
+- 🗑️ **remove_robot**: Remove an existing robot from the system.  
+- 🔧 **add_worker**: Add a new worker to the system.  
+- 🗑️ **remove_worker**: Remove an existing worker from the system.  
+- 📋 **assign_task**: Assign a task to robots and workers.  
+- 🛠️ **add_product**: Add a new product along with its associated steps.  
+- 🚀 **assign_product**: Assign a product with multiple steps to the system.  
+- 🔍 **check_status**: Display the status of tasks, robots, and workers.  
+- ✅ **complete_task**: Mark a task as completed and release its allocated resources.  
+- ❌ **quit**: Exit the Robotic Cell Management System.
+
+
 ### **Input Examples**
 
 - **Add a Robot:**
